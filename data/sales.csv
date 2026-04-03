@@ -1,0 +1,7 @@
+customer_id,product,price,quantity,city
+101,Mobile,20000,2,Delhi
+102,Laptop,50000,1,Mumbai
+101,Headphone,2000,3,Delhi
+103,Tablet,15000,2,Bangalore
+104,Mobile,18000,1,Pune
+102,Mouse,500,4,Mumbai
