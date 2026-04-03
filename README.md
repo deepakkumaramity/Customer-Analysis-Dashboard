@@ -1,4 +1,6 @@
-# 🚀 Customer Analysis Project
+# 🚀 Customer Analysis Project<img width="896" height="601" alt="Screenshot 2026-04-03 141731" src="https://github.com/user-attachments/assets/0fc7f9ea-d6d7-4d60-8a10-25739f940452" />
+
+
 
 ### 👨‍💻 Created by: **Deepak Kumar**
 
